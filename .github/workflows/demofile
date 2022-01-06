@@ -49,4 +49,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ github.repository_owner }}/simplewhale:latest
+          tags: ${{ github.repository_owner }}/myselfproject:latest
